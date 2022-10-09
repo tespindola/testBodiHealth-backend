@@ -1,7 +1,3 @@
-# App Static news
-
-In process
-
 # Start
 Initial command for the application
 
@@ -12,8 +8,6 @@ php artisan passport:install
 php artisan db:seed
 ```
 
-Initial user credentials:
-
-Email: admin@admin.com
-
+Initial user credentials:  
+Email: admin@admin.com  
 Password: 123456
