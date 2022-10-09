@@ -14,4 +14,5 @@ php artisan db:seed
 
 Initial user credentials:
 Email: admin@admin.com
+
 Password: 123456
